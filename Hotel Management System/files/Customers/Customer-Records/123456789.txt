@@ -1,0 +1,6 @@
+
+Customer Id : 123456789
+Name : Clark Kent
+Age : 23
+Mobile No : 117206969
+Gender : Male

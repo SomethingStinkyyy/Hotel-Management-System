@@ -1,0 +1,6 @@
+
+Customer Id : 1234
+Name : goli noli
+Age : 23
+Mobile No : 21441324
+Gender : male

@@ -1,0 +1,13 @@
+-------------Receipt-------------
+_________________________________
+Customer Id : 1234
+
+Description		 Total
+Room Cost :		 Rs. 0
+Restaurant Cost :	    Rs. 0
+Convention Hall Cost :	    Rs. 0
+Cab Cost :		 Rs. 1800
+_________________________________
+Total Cost :		 Rs. 1800
+_________________________________
+---------THANK YOU!---------------

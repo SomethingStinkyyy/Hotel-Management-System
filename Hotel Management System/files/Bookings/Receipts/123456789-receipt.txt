@@ -1,0 +1,14 @@
+---------ABC Travel Agency-----------
+-------------Receipt-------------
+_________________________________
+Customer Id : 123456789
+
+Description		 Total
+Room Cost :		 Rs. 100000
+Restaurant Cost :	    Rs. 30000
+Convention Hall Cost :	    Rs. 100000
+Cab Cost :		 Rs. 7000
+_________________________________
+Total Cost :		 Rs. 237000
+_________________________________
+---------THANK YOU!---------------

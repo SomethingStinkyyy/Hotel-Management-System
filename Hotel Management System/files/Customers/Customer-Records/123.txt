@@ -1,0 +1,6 @@
+
+Customer Id : 123
+Name : j j
+Age : 22
+Mobile No : 123456
+Gender : male
